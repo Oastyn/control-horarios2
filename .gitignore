@@ -1,0 +1,11 @@
+# Entorno virtual de Python
+env/
+
+# Cachés de Python
+__pycache__/
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Dependencias de Node.js (si decides usar Node en el futuro)
+node_modules/
